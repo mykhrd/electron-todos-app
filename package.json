@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mykhrd/electron-todos-app/issues"
   },
-  "homepage": "https://github.com/mykhrd/electron-todos-app#readme"
+  "homepage": "https://github.com/mykhrd/electron-todos-app#readme",
+  "dependencies": {
+    "electron": "1.6.6"
+  }
 }
